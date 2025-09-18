@@ -8,18 +8,8 @@
         ],
         "paths": [
           "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "2Q4A5JF4P4.com.katedra.katedrapk"
     ]
   }
 }
